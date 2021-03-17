@@ -63,3 +63,13 @@ a {
   text-align: center;
   
 }
+
+.my-class {
+  margin: 20px;
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+}
+
+
+
