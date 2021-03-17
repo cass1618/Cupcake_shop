@@ -17,10 +17,6 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-h1 {
-  color: cyan;
-  
-}
 
 h3 {
   font-size:small;
@@ -70,6 +66,11 @@ a {
   padding: 10px;
   background-color: orange;
 }
+body {
+  background-image: url('/images/cookiemonsta.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 
+}
 
 
