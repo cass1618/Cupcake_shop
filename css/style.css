@@ -19,13 +19,45 @@
 
 h1 {
   color: cyan;
-  float: left;
+  
+}
+
+h3 {
+  font-size:small;
+  font-family:'Courier New', Courier, monospace;
+}
+.hhh{
+  height: 25vh;
 }
 
 img {
   
   width: 200px;
-  border: solid rgb(0, 0, 0);
+  border: solid rgb(189, 55, 189);
   border-width: 4px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
+}
+
+a {
+  color:rgb(189, 55, 189);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  float: left;
+  width: 400px;
+  border-width: 4px;
+  margin-bottom: 10px;
+  background-color: silver;
+}
+
+.hist {
+  background-color: blue;
+  color: rgb(255, 8, 234);
+  height: 50vh;
+  text-align: center;
+}
+
+.ff {
+  background-color: rgb(148, 14, 226);
+  color: cyan;
+  height: 50vh;
+  text-align: center;
 }
