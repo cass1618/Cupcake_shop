@@ -42,7 +42,8 @@ a {
   color:rgb(189, 55, 189);
   font-family:Georgia, 'Times New Roman', Times, serif;
   float: left;
-  width: 400px;
+  width: 100px;
+  padding: 10px;
   border-width: 4px;
   margin-bottom: 10px;
   background-color: silver;
@@ -60,4 +61,5 @@ a {
   color: cyan;
   height: 50vh;
   text-align: center;
+  
 }
